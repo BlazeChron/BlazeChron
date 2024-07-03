@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I like game dev and hopefully delve deeper into math
+Currently working on a game project called Unstable Isle, inspired by Dota2 workshop's Crumbling Island Arena
+
+I am working on a website and a profile photo
