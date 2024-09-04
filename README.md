@@ -18,4 +18,6 @@ I like game dev and hopefully delve deeper into math
 
 Currently working on a game project called Unstable Isle, inspired by Dota2 workshop's Crumbling Island Arena
 
+You can find my games on Itch at https://blazechron.itch.io/
+
 I am working on a personal website and perhaps finding a more appropriate profile photo
