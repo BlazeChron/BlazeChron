@@ -20,4 +20,4 @@ Currently working on a game project called Unstable Isle, inspired by Dota2 work
 
 You can find my games on itch at https://blazechron.itch.io/
 
-I am working on a personal website and perhaps finding a more appropriate profile photo
+I am working on a personal website
