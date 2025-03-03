@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I like game dev and hopefully delve deeper into math
 
-Currently working on a game project called Unstable Isle, inspired by Dota2 workshop's Crumbling Island Arena
+Currently working on a game project called Betrayal Seven, a single player card game.
 
 You can find my games on itch at https://blazechron.itch.io/
 
