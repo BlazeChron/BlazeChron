@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I like game dev and hopefully delve deeper into math
+I like game dev and learning sysadmin.
 
 Currently working on a game project called Betrayal Seven, a single player card game.
 
