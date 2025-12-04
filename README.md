@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I like game dev and learning sysadmin.
+I like game dev and am learning databases and sysadmin.
 
-Currently working on a game project called Betrayal Seven, a single player card game.
+Currently working on a game project called fish_game, a short fishing game to implement databases with
+
+Betrayal Seven is on the backburner for now T-T.
 
 You can find my games on itch at https://blazechron.itch.io/
 
-I am working on a personal website
+I am also working on a personal website:
 https://blazechron.github.io/
+
+Planning to fully convert it into threejs, as well as to implement a database.
