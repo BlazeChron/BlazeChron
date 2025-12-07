@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I like game dev and am learning databases and sysadmin.
+I game dev! You can find my games on itch at https://blazechron.itch.io/
 
-Currently working on a game project called fish_game, a short fishing game to implement databases with
+I am currently learning databases on a self-hosted server, and making too many discord bots...
 
-Betrayal Seven is on the backburner for now T-T.
-
-You can find my games on itch at https://blazechron.itch.io/
-
-I am also working on a personal website:
-https://blazechron.github.io/
-
-Planning to fully convert it into threejs, as well as to implement a database.
+Ongoing Projects:
+- fish_game, a simple fishing game to implement databases with (with a Discord Bot interface)
+- Betrayal Seven, a single player card game (Godot, on the backburner for now T-T)
+- Converting my [personal website](https://blazechron.github.io/) to threejs
