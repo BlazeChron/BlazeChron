@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 I game dev! You can find my games on itch at https://blazechron.itch.io/
 
-I am currently learning databases on a self-hosted server, and making too many discord bots...
+I am currently learning C and how to be a good programmer.
 
-Ongoing Projects:
-- fish_game, a simple fishing game to implement databases with (with a Discord Bot interface)
-- Betrayal Seven, a single player card game (Godot, on the backburner for now T-T)
-- Converting my [personal website](https://blazechron.github.io/) to threejs
+Have a self-hosted server, made too many discord bots...
+
+[personal website](https://blazechron.github.io/)
